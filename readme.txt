@@ -1,7 +1,3 @@
 //wrote by dengyulan
 
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
-Now understand diff.
+This function is used to fix the corners in image.
